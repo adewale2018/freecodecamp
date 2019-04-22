@@ -1,0 +1,13 @@
+h1::first-letter{
+  color: #0074d9;
+  font-size: 60px;
+  font-family: Arial, Helvetica, sans-serif;
+  border-bottom: 5px dashed  #02c54c;
+}
+h1{
+  text-align: center;
+  color: 
+  #02c54c;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ 
+}
